@@ -1,0 +1,13 @@
+{
+  "name": "teadexswap",
+  "version": "1.0.0",
+  "description": "TeaDEX Swap on Tea Sepolia",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.22.1"
+  }
+}
